@@ -1,13 +1,7 @@
 - 👋 Hi, I’m @Khan2001
 - 👀 I’m interested in IT and digital products
 - 🌱 I’m currently learning IoT
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me : 
-        tel:13815221466
-        QQ:1371244923
-<!---
-Khan2001/Khan2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me : Tel:13815221466 &emsp; QQ:1371244923
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Khan2001&show_icons=true)]()&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khan2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Khan2001&show_icons=true&include_all_commits=true&hide_border=true" alt="Khan2001's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khan2001&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
